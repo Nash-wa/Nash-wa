@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Nashwa</h1>
-<h3 align="center">🚀 A Tech Explorer | B.Tech + B.S. in Data Science | E-Cell Leader | Developer & Designer</h3>
+<h3 align="center">🚀 A Tech Explorer & Developer | B.Tech + B.S. in Data Science | Aspiring Tech Innovator & Entrepreneur</h3>
 
 ---
 
