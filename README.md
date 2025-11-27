@@ -49,4 +49,20 @@ A platform connecting college students with schools for tech learning & outreach
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.
+  <img src="https://github-readme-stats.vercel.app/api?username=Nash-wa&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Nash-wa&theme=highcontrast" />
+</p>
+
+---
+
+### 🌐 Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nashwa-sp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nashwasp.cs23@jecc.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/spnashwa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>“Build with curiosity, lead with purpose.”</i></p>
