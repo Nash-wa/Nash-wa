@@ -38,13 +38,6 @@ Automates image generation from CSV using **Next.js + TailwindCSS**.
 📌 *Great for certificates, posters, bulk dynamic templates.*  
 🔗 https://github.com/Nash-wa/Image-Template-Filler
 
-#### 🔹 Film Forum *(Coming Soon)*  
-A film-analysis tool for creative plot reinterpretation  
-(Designed with ML + interactive UI concepts)
-
-#### 🔹 EduReach (Concept)  
-A platform connecting college students with schools for tech learning & outreach.
-
 ---
 
 ### 📈 GitHub Stats  
